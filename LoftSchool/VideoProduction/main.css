@@ -1,0 +1,22 @@
+@import url(../VideoProduction/css-adds/main__main.css);
+@import url(../VideoProduction/css-adds/header.css);
+@import url(../VideoProduction/css-adds/button.css);
+@import url(../VideoProduction/css-adds/hero.css);
+@import url(../VideoProduction/css-adds/services.css);
+@import url(../VideoProduction/css-adds/news__section.css);
+@import url(../VideoProduction/css-adds/paginator.css);
+@import url(../VideoProduction/css-adds/about.css);
+@import url(../VideoProduction/css-adds/socials.css);
+@import url(../VideoProduction/css-adds/footer.css);
+
+/* service page */
+
+@import url(../VideoProduction/servicepage.css);
+
+/* reviews page */
+
+@import url(../VideoProduction/reviews.css);
+
+/* welcome page */
+
+@import url(../VideoProduction/welcome.css);

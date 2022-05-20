@@ -1,0 +1,28 @@
+.review {
+    display: flex;
+    flex-direction: column;
+}
+
+.review__header {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    /* width: 140px;
+    height: 140px;
+    overflow: hidden;
+    border-radius: 50%; */
+}
+
+.review__user {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(46, 119, 164, 1);
+}
+
+.review__user:after {
+    content: url(../../img/vk-colored.png);
+}

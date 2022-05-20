@@ -1,0 +1,41 @@
+.pager {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.pager__display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 26px;
+    font-weight: 400;
+}
+
+.pager__item--active .pager__link {
+    background-color: #FF5500;
+}
+
+.pager__item {
+    display: inline-flex;
+}
+
+.pager__link {
+    display: block;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    position: relative;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 32px;
+}
+
+.pager__link:hover {
+    background-color: #FF5500;
+}
+
+
+.pager__link-service:hover {
+    color:#fff;
+}

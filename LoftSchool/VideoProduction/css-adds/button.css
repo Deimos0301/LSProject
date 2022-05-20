@@ -1,0 +1,43 @@
+.btn {
+    font-weight: bold;
+    background-color: #FF3D00;
+    border-radius: 35px;
+    border: 1px solid #FF3D00;
+    padding: 18px 53px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    background-color: #FF5500;
+}
+
+.btn--color--white {
+    color: #fff;
+    background-color: #FF5500;
+}
+
+.btn--color--white:hover {
+    background-color: #fff;
+    color: #FF5500;
+    border: 1px solid #FF5500;
+}
+
+.btn--size--small {
+    padding: 18px 40px;
+    background-color: #FF5400;
+}
+
+.btn--size--small:hover {
+    background-color: #FF3D00;
+}
+
+.services__button {
+    padding: 29px 0px;
+}
+
+.btn-welcomepage {
+    padding: 18px 53px;
+}

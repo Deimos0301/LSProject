@@ -1,0 +1,96 @@
+.hero__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 600px; 
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__col {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.menu__item {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header__col--align--right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* Service */
+
+.services__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.services__desc {
+    display: flex;
+    justify-content: space-between;
+}
+
+.socials__item {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+.news {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news__item {
+    display: inline-flex;
+    position: relative;
+}
+
+
+/* about */
+
+.about {
+    display: flex;
+}
+
+
+/* footer */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.footer__col {
+    display: inline-flex;
+}
+.footer__col--align--right {
+    display: inline-flex;
+}
+
+.footer__menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
